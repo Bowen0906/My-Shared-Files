@@ -1,4 +1,4 @@
-# My-Python-Programs
-一些我自己制作的Python程序。
+# My-Shared-Files
 
-Some Python programs I made by myself.
+- 一些我分享的文件和 Python 或 C++ 程序
+- Some files and Python or C++ programs that I share
